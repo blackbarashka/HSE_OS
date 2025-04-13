@@ -1,0 +1,21 @@
+ОС мейнфреймов: https://www.geeksforgeeks.org/what-is-mainframe-operating-system/
+Серверные ОС: https://itelon.ru/blog/servernye-operatsionnye-sistemy/
+Многопроцессорные ОС: https://www.geeksforgeeks.org/multi-processing-operating-system/
+ОС персональных компьютеров: https://habr.com/ru/companies/otus/articles/728394/
+ОС мобильных систем: https://ru.wikipedia.org/wiki/Мобильная_операционная_система
+Встроенные ОС: https://en.wikipedia.org/wiki/Embedded_operating_system
+ОС сенсорных узлов: https://mirovloiq.1c-umi.ru/lekcii_os/lekciya_3/
+ОС реального времени: https://ru.wikipedia.org/wiki/Операционная_система_реального_времени
+ОС по группе пользователей: https://ru.wikipedia.org/wiki/Операционная_система
+ОС по архитектуре компьютера: https://intuit.ru/studies/courses/641/497/lecture/11266?page=3
+ОС по производительности: https://habr.com/ru/articles/575928/
+ОС монолитная архитектура: https://www.geeksforgeeks.org/monolithic-architecture/
+ОС многоуровневая архитектура: https://www.geeksforgeeks.org/layered-operating-system/
+ОС микроядровая архитектура: https://www.geeksforgeeks.org/microkernel-in-operating-systems/
+ОС экзоядровая архитектура: https://habr.com/ru/articles/127207/
+ОС виртуальная машина: https://2domains.ru/support/vps-i-servery/chto-takoye-virtualnaya-mashina-kak-yeyo-sozdat
+ОС смешанная архитектура: https://education.astralinux.ru/mod/book/view.php?id=6382&chapterid=2442
+Многозадачное ОС: https://www.geeksforgeeks.org/multitasking-operating-system/
+Однозадачные ОС: https://ru.wikipedia.org/wiki/Категория:Дисковые_однозадачные_операционные_системы
+Cайт разработчиков Windows: https://developer.microsoft.com/en-us/windows/
+Сайт разработчиков Linux: https://www.linux.org/?ref=marketsplash
