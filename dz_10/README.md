@@ -97,8 +97,13 @@
 ## Компиляция программ
 Для компиляции серверной и клиентской программ выполните следующие команды:
 
-`g++ -o broadcast_server broadcast_server.cpp g++ -o broadcast_client broadcast_client.cpp`
-`g++ -o multicast_server multicast_server.cpp g++ -o multicast_client multicast_client.cpp`
+`g++ -o broadcast_server broadcast_server.cpp`
+
+`g++ -o broadcast_client broadcast_client.cpp`
+
+`g++ -o multicast_server multicast_server.cpp`
+
+`g++ -o multicast_client multicast_client.cpp`
 
 ## Запуск программ
 
