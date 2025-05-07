@@ -119,3 +119,10 @@
 `./multicast_server`
 2. Запустите клиента (на том же или другом компьютере в локальной сети):
 `./multicast_client`
+---
+# Пример работы программы:
+![image](https://github.com/user-attachments/assets/1c7d0862-2f8a-419c-8260-6f062d050ed4)
+
+
+##Многоадрессная рассылка:
+![image](https://github.com/user-attachments/assets/02d94950-d84b-401c-afe8-aceb340ef88c)
